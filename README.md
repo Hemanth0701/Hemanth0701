@@ -29,7 +29,7 @@
 ## 🔥 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,security,jwt,docker,kafka,mysql,postgres,react,nodejs,ts,html,css,js,git,github,linux,py,cpp,aws,azure,vscode,postman&perline=15" />
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,kafka,mysql,postgres,react,nodejs,ts,html,css,js,git,github,linux,py,cpp,aws,azure,vscode,postman&perline=15" />
 </p>
 
 ---
@@ -81,4 +81,39 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=monkey531&theme=github-compact&area=true&hide_border=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monkey531&theme=vue" width="
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monkey531&theme=vue" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monkey531&theme=vue" width="49%" />
+</div>
+
+---
+
+## 📈 Metrics & Insights
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Hemanth0701/count.svg" alt="Profile Views" />
+  <br/>
+  <a href="https://github.com/Hemanth0701">
+    <img src="https://img.shields.io/github/followers/monkey531?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+  <br/><br/>
+  <a href="https://wakatime.com/">
+    <img src="https://wakatime.com/badge/user/018b0e4a-91f9-4e8b-83fb-66d053611dc3.svg" alt="Wakatime Badge" />
+  </a>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hemanthkumarm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-HemanthKumar-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:hemanthkumarm2499@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-hemanthkumarm2499@gmail.com-red?style=flat&logo=gmail" /></a>
+  <a href="https://github.com/Hemanth0701" target="_blank"><img src="https://img.shields.io/badge/GitHub-monkey531-black?style=flat&logo=github" /></a>
+  <a href="tel:+917598490857" target="_blank"><img src="https://img.shields.io/badge/Phone-8778114904-green?style=flat&logo=whatsapp" /></a>
+</p>
+
+---
+
+> 💡 *“The best way to predict the future is to build it.” – Alan Kay*
+
+<img src="https://github.com/monkey531/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
