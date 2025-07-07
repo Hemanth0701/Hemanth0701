@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hemanth0701&theme=tokyonight&no-frame=true&margin-w=8" alt="GitHub Trophies" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Hemanth0701&theme=tokyonight&no-frame=true&margin-w=8" alt="GitHub Trophies" /> -->
 
 <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=Hemanth0701&theme=tokyonight" alt="Streak Stats" />
 
@@ -63,17 +63,6 @@
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake-light.svg" />
-    <img alt="GitHub Snake" src="https://github.com/monkey531/assets/blob/main/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
 
 ---
 
@@ -106,10 +95,10 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hemanthkumarm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-HemanthKumar-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:hemanthkumarm2499@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-hemanthkumarm2499@gmail.com-red?style=flat&logo=gmail" /></a>
-  <a href="https://github.com/Hemanth0701" target="_blank"><img src="https://img.shields.io/badge/GitHub-monkey531-black?style=flat&logo=github" /></a>
-  <a href="tel:+917598490857" target="_blank"><img src="https://img.shields.io/badge/Phone-8778114904-green?style=flat&logo=whatsapp" /></a>
+  <a href="https://linkedin.com/in/hemanth-kumar-m-2b8318213" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-HemanthKumar-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:hemanthkumar0701m@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-hemanthkumar0701m@gmail.com-red?style=flat&logo=gmail" /></a>
+  <a href="https://github.com/Hemanth0701" target="_blank"><img src="https://img.shields.io/badge/GitHub-Hemanth0701-black?style=flat&logo=github" /></a>
+  <a href="tel:+917598490857" target="_blank"><img src="https://img.shields.io/badge/Phone-7598490857-green?style=flat&logo=whatsapp" /></a>
 </p>
 
 ---
