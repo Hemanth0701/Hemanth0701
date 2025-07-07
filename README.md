@@ -79,7 +79,16 @@
 ## 📈 Metrics & Insights
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Hemanth0701/count.svg" alt="Profile Views" />
+  <!-- Followers + Repos -->
+<p align="center">
+  <a href="https://github.com/Hemanth0701">
+    <img src="https://img.shields.io/github/followers/Hemanth0701?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Hemanth0701?tab=repositories">
+    <img src="https://img.shields.io/github/repos/Hemanth0701?style=for-the-badge" />
+  </a>
+</p>
+
   <br/>
   <a href="https://github.com/Hemanth0701">
     <img src="https://img.shields.io/github/followers/monkey531?label=Follow&style=social" alt="GitHub Followers" />
